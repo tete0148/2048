@@ -10,5 +10,5 @@ Add java binary folder to your path and run "run.sh"
 - 6: LEFT
 - 5: QUIT
 
-**(8,2,4,6,5) + (enter) to control
-*Use the numpad**
+**(8,2,4,6,5) + (enter) to control**
+*Use the numpad*
